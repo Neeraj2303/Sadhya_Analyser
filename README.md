@@ -2,6 +2,8 @@
 
 **Sadhya_Analyser** is an AI-powered web application designed to analyze the arrangement of dishes in a traditional Kerala Sadhya served on a banana leaf. Using computer vision and culturally-informed rules, it detects the presence, placement accuracy, and overall symmetry of each item, providing a verdict and score.
 
+LINK: https://sadhya-analyser.vercel.app/
+
 ## ✨ Features
 
 - 🔍 Detects and recognizes Sadhya items on a banana leaf
