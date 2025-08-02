@@ -8,6 +8,7 @@ Team Members
 
     Member 2: Kalidas V.S. – Sree Buddha College of Engineering, Pattoor, Alappuzha
 
+
 Project Description
 
 An AI-powered app that checks if your Sadhya is arranged correctly on a banana leaf — because, of course, that matters more than taste.
@@ -62,10 +63,6 @@ Screenshots
 Main analysis UI with mock leaf and items detected
 
 For Hardware: (if future integration happens)
-Schematic & Circuit
-
-(Could involve real-time plate detection with Raspberry Pi + camera if we ever go full Onam Skynet)
-Build Photos
 
 [Add demo video link here]
 Shows uploading an image, analyzing, and getting judged by an AI with no culinary training
