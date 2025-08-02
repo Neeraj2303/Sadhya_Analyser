@@ -56,6 +56,7 @@ Deploy
 
 Deployed on Vercel
 LINK: https://sadhya-analyser.vercel.app/
+
 Project Documentation
 Screenshots
 
@@ -75,6 +76,3 @@ Team Contributions
     Kalidas V.S. : Model prompt engineer, cultural accuracy
     
 Made with ❤️ (and banana leaves) at TinkerHub Useless Projects
-
-Static Badge
-Static Badge
