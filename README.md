@@ -76,5 +76,6 @@ Team Contributions
     Kalidas V.S. : Model prompt engineer, cultural accuracy
     
 Made with ❤️ (and banana leaves) at TinkerHub Useless Projects
+
 ![Static Badge](https://img.shields.io/badge/TinkerHub-black?link=https%3A%2F%2Fwww.tinkerhub.org%2F)![Static Badge](https://img.shields.io/badge/UselessProjects--2.0-brightgreen?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
 
